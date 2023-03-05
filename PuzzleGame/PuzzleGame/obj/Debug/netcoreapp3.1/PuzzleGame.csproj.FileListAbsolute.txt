@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.exe
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.deps.json
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.runtimeconfig.json
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.runtimeconfig.dev.json
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.dll
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\bin\Debug\netcoreapp3.1\PuzzleGame.pdb
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.Form1.resources
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.AssemblyInfo.cs
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.dll
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.pdb
+C:\Users\dell\Desktop\5 mazag\PuzzleGame\PuzzleGame\obj\Debug\netcoreapp3.1\PuzzleGame.genruntimeconfig.cache
